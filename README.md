@@ -14,7 +14,7 @@ This project is a data analysis report that tracks global COVID-19 trends over t
 
 Data is sourced from:  
 **Our World in Data COVID-19 Dataset**  
-[Link to dataset](https://ourworldindata.org/coronavirus-source-data)
+[Link to dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv)
 
 CSV File Used: `owid-covid-data.csv`
 
